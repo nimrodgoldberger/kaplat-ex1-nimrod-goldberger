@@ -1,2 +1,3 @@
 file named 'a' added from github
 edit - added a new line
+new edit, step O
