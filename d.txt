@@ -1,0 +1,1 @@
+file 'd' added to branch B2 from commit C3
